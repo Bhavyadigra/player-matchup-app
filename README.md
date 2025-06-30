@@ -89,10 +89,11 @@ This project not only showcases predictive analytics but also demonstrates my le
 │ ├── result.png
 │ └── app-demo.gif
 
-## preview 
+## PREVIEW
 ![Screenshot 2025-06-30 214130](https://github.com/user-attachments/assets/da6173ae-d61d-48a2-8a59-a5cdef76c8a8)
 ![Screenshot 2025-06-30 214142](https://github.com/user-attachments/assets/104eb577-511e-40ef-b05c-8b69c91a69dd)
-
+## DEMO
+https://github.com/user-attachments/assets/3c9be516-306a-4297-88b0-50c4be29fb03
 
 
 
