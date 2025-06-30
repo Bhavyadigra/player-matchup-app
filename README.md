@@ -1,3 +1,18 @@
+COMPANY : CODTECH IT SOLUTIONS 
+
+NAME: BHAVYA DIGRA 
+
+INTERN ID: CITS0D698
+
+DOMAIN:DATA ANALYST 
+
+DURATION: 4 WEEKS 
+
+MENTOR:NEELA SANTOSH
+
+
+##  PREDICTIVE ANALYSIS USING MACHINE LEARNING
+
 ## 🧠 About the Project
 
 As a 2nd-year Data Science enthusiast, I built this project to dive deeper into **real-world sports analytics**. The goal is to leverage historical IPL ball-by-ball data and use machine learning to predict the **probability of a wicket** between any batsman and bowler matchup, based on past stats and phase of play.
